@@ -1,3 +1,3 @@
 # ReachPilot
 
-This is the MVP of the ReachPilot outreach SaaS tool.
+This is a working Next.js version of the ReachPilot landing page.
